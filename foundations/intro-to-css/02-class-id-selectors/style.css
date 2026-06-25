@@ -1,1 +1,16 @@
-/* Add CSS Styling */
+.Odd {
+   background-color: rgb(255, 160, 122);
+   font-family: Verdana, sans-serif, DejaVu_Sans;
+}
+ .Size {
+font-size: 24px;
+}
+#Azule {
+    font-size: 36px; 
+    color:blue;
+}
+
+#Poppy {
+    background-color: lightgreen;
+    font-weight: bold;
+}
