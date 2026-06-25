@@ -1,1 +1,12 @@
-/* Add CSS Styling */
+.Abyss, .Bee {
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+    font-size: 28px;
+}
+.Abyss {
+    background-color: rgb(0, 0, 0);
+    color:white;
+}
+.Bee {
+    background-color: yellow;
+    
+}
